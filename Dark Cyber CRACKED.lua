@@ -221,7 +221,7 @@ JoinText.BackgroundTransparency = 1
 JoinText.Position = UDim2.new(0, 0, 0.453551859, 0)
 JoinText.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 JoinText.Font = Enum.Font.GothamBold
-JoinText.Text = "Join Discord for more Update"
+JoinText.Text = "Entre no discord para mais scripts"
 JoinText.TextColor3 = Color3.new(1, 1, 1)
 JoinText.TextSize = 17
 
@@ -232,7 +232,7 @@ DiscordlinkTest.BackgroundTransparency = 1
 DiscordlinkTest.Position = UDim2.new(0, 0, 0.601092875, 0)
 DiscordlinkTest.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 DiscordlinkTest.Font = Enum.Font.GothamBold
-DiscordlinkTest.Text = "Link: https://discord.gg/yXNjfMa"
+DiscordlinkTest.Text = "Link: https://discord.gg/EYJSx8Y4Uh"
 DiscordlinkTest.TextColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.TextSize = 17
 
